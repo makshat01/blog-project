@@ -1,0 +1,15 @@
+img{
+width:220px;
+height:220px;
+border:4px dashed blue;
+}
+h1{
+color:red;font-weight:bold;
+}
+table,th,td{
+border:2px solid black;
+}
+table{
+padding:7px;}
+td{
+padding:4px;}
